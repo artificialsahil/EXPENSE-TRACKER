@@ -81,6 +81,4 @@ Add graphical summary or reports
 
 ---
 
-If you want, I can also *add placeholders for screenshots and badges*, so it looks professional on GitHub and grabs attention immediately.  
 
-Do you want me to do that next?
